@@ -19,64 +19,74 @@
 
 ---
 
+<!-- TOOLS_SECTION_START -->
 ## 工具入口（常用链接）
 
 ### Formatter
 
+- **CSS Formatter**：[https://freetools.run/formatter/css](https://freetools.run/formatter/css)
 - **JSON Formatter**：[https://freetools.run/formatter/json-formatter](https://freetools.run/formatter/json-formatter)
 - **SQL Formatter**：[https://freetools.run/formatter/sql](https://freetools.run/formatter/sql)
 - **XML Formatter**：[https://freetools.run/formatter/xml](https://freetools.run/formatter/xml)
-- **CSS Formatter**：[https://freetools.run/formatter/css](https://freetools.run/formatter/css)
 
 ### Encoder / Decoder
 
-- **Base64 Encoder / Decoder**：[https://freetools.run/encoder/base64](https://freetools.run/encoder/base64)
-- **URL Encoder / Decoder**：[https://freetools.run/encoder/url](https://freetools.run/encoder/url)
+- **Base64 Encoder**：[https://freetools.run/encoder/base64](https://freetools.run/encoder/base64)
 - **JWT Decoder**：[https://freetools.run/encoder/jwt](https://freetools.run/encoder/jwt)
+- **URL Encoder**：[https://freetools.run/encoder/url](https://freetools.run/encoder/url)
 
 ### Converter
 
+- **Color Converter**：[https://freetools.run/converter/color](https://freetools.run/converter/color)
+- **cURL Converter**：[https://freetools.run/converter/curl](https://freetools.run/converter/curl)
 - **JSON to CSV**：[https://freetools.run/converter/json-to-csv](https://freetools.run/converter/json-to-csv)
-- **cURL Converter（cURL → Python/JS/Go/PHP...）**：[https://freetools.run/converter/curl](https://freetools.run/converter/curl)
-- **Color Converter（HEX/RGB/HSL/HSV/CMYK）**：[https://freetools.run/converter/color](https://freetools.run/converter/color)
 
-### Image（尽量 no upload）
+### Image
 
+- **HEIC to JPG**：[https://freetools.run/image/heic-to-jpg](https://freetools.run/image/heic-to-jpg)
+- **HEIC to PNG**：[https://freetools.run/image/heic-to-png](https://freetools.run/image/heic-to-png)
+- **HEIC to WEBP**：[https://freetools.run/image/heic-to-webp](https://freetools.run/image/heic-to-webp)
 - **Image Converter**：[https://freetools.run/image/converter](https://freetools.run/image/converter)
-- **HEIC → JPG**：[https://freetools.run/image/heic-to-jpg](https://freetools.run/image/heic-to-jpg)
-- **HEIC → PNG**：[https://freetools.run/image/heic-to-png](https://freetools.run/image/heic-to-png)
-- **HEIC → WEBP**：[https://freetools.run/image/heic-to-webp](https://freetools.run/image/heic-to-webp)
-- **PNG ↔ JPG / WEBP**：[https://freetools.run/image/png-to-jpg](https://freetools.run/image/png-to-jpg) / [https://freetools.run/image/jpg-to-png](https://freetools.run/image/jpg-to-png) / [https://freetools.run/image/jpg-to-webp](https://freetools.run/image/jpg-to-webp) / [https://freetools.run/image/png-to-webp](https://freetools.run/image/png-to-webp)
-- **WEBP → JPG/PNG**：[https://freetools.run/image/webp-to-jpg](https://freetools.run/image/webp-to-jpg) / [https://freetools.run/image/webp-to-png](https://freetools.run/image/webp-to-png)
-- **SVG → PNG/JPG/WEBP/ICO**：[https://freetools.run/image/svg-to-png](https://freetools.run/image/svg-to-png) / [https://freetools.run/image/svg-to-jpg](https://freetools.run/image/svg-to-jpg) / [https://freetools.run/image/svg-to-webp](https://freetools.run/image/svg-to-webp) / [https://freetools.run/image/svg-to-ico](https://freetools.run/image/svg-to-ico)
-- **SVG → Favicon Generator（打包下载）**：[https://freetools.run/image/svg-to-favicon](https://freetools.run/image/svg-to-favicon)
+- **JPG to PNG**：[https://freetools.run/image/jpg-to-png](https://freetools.run/image/jpg-to-png)
+- **JPG to WebP**：[https://freetools.run/image/jpg-to-webp](https://freetools.run/image/jpg-to-webp)
+- **PNG to JPG**：[https://freetools.run/image/png-to-jpg](https://freetools.run/image/png-to-jpg)
+- **PNG to WebP**：[https://freetools.run/image/png-to-webp](https://freetools.run/image/png-to-webp)
+- **SVG to Favicon Generator**：[https://freetools.run/image/svg-to-favicon](https://freetools.run/image/svg-to-favicon)
+- **SVG to ICO**：[https://freetools.run/image/svg-to-ico](https://freetools.run/image/svg-to-ico)
+- **SVG to JPG**：[https://freetools.run/image/svg-to-jpg](https://freetools.run/image/svg-to-jpg)
+- **SVG to PNG**：[https://freetools.run/image/svg-to-png](https://freetools.run/image/svg-to-png)
+- **SVG to WebP**：[https://freetools.run/image/svg-to-webp](https://freetools.run/image/svg-to-webp)
+- **WebP to JPG**：[https://freetools.run/image/webp-to-jpg](https://freetools.run/image/webp-to-jpg)
+- **WebP to PNG**：[https://freetools.run/image/webp-to-png](https://freetools.run/image/webp-to-png)
 
 ### Generator
 
-- **UUID Generator**：[https://freetools.run/generator/uuid](https://freetools.run/generator/uuid)
 - **Cron Generator**：[https://freetools.run/generator/cron](https://freetools.run/generator/cron)
 - **QR Code Generator**：[https://freetools.run/generator/qrcode](https://freetools.run/generator/qrcode)
+- **UUID Generator**：[https://freetools.run/generator/uuid](https://freetools.run/generator/uuid)
 
 ### Diff
 
-- **Diff Checker（Text Diff）**：[https://freetools.run/diff/text](https://freetools.run/diff/text)
+- **Diff Checker**：[https://freetools.run/diff/text](https://freetools.run/diff/text)
 
 ### Viewer / Editor
 
-- **HTML Viewer**：[https://freetools.run/viewer/html-viewer](https://freetools.run/viewer/html-viewer)
-- **Markdown Viewer（GFM）**：[https://freetools.run/viewer/markdown-viewer](https://freetools.run/viewer/markdown-viewer)
-- **Mermaid Viewer / Editor**：[https://freetools.run/viewer/mermaid-viewer](https://freetools.run/viewer/mermaid-viewer)
 - **Diagram Viewer**：[https://freetools.run/viewer/diagram-viewer](https://freetools.run/viewer/diagram-viewer)
+- **HTML Viewer**：[https://freetools.run/viewer/html-viewer](https://freetools.run/viewer/html-viewer)
+- **Markdown Viewer**：[https://freetools.run/viewer/markdown-viewer](https://freetools.run/viewer/markdown-viewer)
+- **Mermaid Viewer**：[https://freetools.run/viewer/mermaid-viewer](https://freetools.run/viewer/mermaid-viewer)
 - **SVG Viewer**：[https://freetools.run/viewer/svg-viewer](https://freetools.run/viewer/svg-viewer)
 
 ### Datetime
 
-- **Unix Timestamp Converter**：[https://freetools.run/datetime/unix-timestamp-converter](https://freetools.run/datetime/unix-timestamp-converter)
 - **Current Timestamp**：[https://freetools.run/datetime/current-timestamp](https://freetools.run/datetime/current-timestamp)
+- **Timestamp Converter**：[https://freetools.run/datetime/unix-timestamp-converter](https://freetools.run/datetime/unix-timestamp-converter)
 
 ### Lookup
 
 - **What is my IP**：[https://freetools.run/lookup/what-is-my-ip](https://freetools.run/lookup/what-is-my-ip)
+
+<!-- TOOLS_SECTION_END -->
 
 ---
 
@@ -105,3 +115,5 @@
 ## 关键词（GitHub / SEO）
 
 free developer tools, online json formatter, sql formatter, xml formatter, css beautifier, base64 encoder decoder, jwt decoder, unix timestamp converter, heic to jpg, heic to png, heic to webp, curl to python, mermaid editor, markdown viewer, diff checker, svg to png, svg to ico, favicon generator, qr code generator
+
+
